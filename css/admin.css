@@ -1,0 +1,23 @@
+#wc_autoship_import_muenster_file_drop {
+	width: 300px;
+}
+
+#wc_autoship_import_muenster_file_result {
+	display: none;
+}
+
+.wc-autoship-import-muenster-row {
+	margin-bottom: 20px;
+}
+
+.wc-autoship-import-muenster-row-count {
+	border-bottom: 1px solid gray;
+}
+
+.wc-autoship-import-muenster-field {
+	margin-right: 5px;
+}
+
+.wc-autoship-import-muenster-error {
+	color: red;
+}
